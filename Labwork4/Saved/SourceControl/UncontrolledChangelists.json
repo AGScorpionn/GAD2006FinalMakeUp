@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/BT_Enemy.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Maps/GameMap.umap",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/BB_Enemy.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/EnemyController.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/BP_Enemy.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/CharacterFbx/bear_specular.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/CharacterFbx/bear_normal.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/CharacterFbx/bear_diffuse.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/CharacterFbx/warrok_MAT.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/CharacterFbx/Warrok_W_Kurniawan.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/CharacterFbx/Warrok_W_Kurniawan_PhysicsAsset.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/CharacterFbx/Warrok_W_Kurniawan_Skeleton.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/Anim/ABP_Enemy.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/Anim/Mutant_Breathing_Idle.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/Anim/Mutant_Run.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/Anim/Mutant_Walking.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/UI/YouLose.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/UI/failed.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/UI/MissionComplete.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/UI/missioncompleted.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Maps/MainMenu.umap",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/UI/MainMenu.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/GameMode/MenuGameMode.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/UI/backgroundd.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Blueprints/BP_NetAvatar.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/UI/Tutorial.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/UI/tutoriall.uasset",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Maps/Lobby.umap",
+				"C:/APK/GAD2006-aslan/GAD2006-master/Labwork4/Content/Enemy/BP_EnemyController.uasset"
+			]
+		}
+	]
+}
